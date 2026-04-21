@@ -1,9 +1,12 @@
 # Top Five
 
-This is a preliminary version of a social media platform called Top Five. The primary function of this website is for users to create posts listing their top five favorite items for a specific category. 
+This is a preliminary version of a social media platform called Top Five. The primary function of this website is for users to create posts listing their top five favorite items for a specific category.
+
+## Class Activity Contributors
+Ahmad Abu Harb
 
 ## Class Activity
-For class, please complete the following activity (you may work individually or with a partner/small group): 
+For class, please complete the following activity (you may work individually or with a partner/small group):
 1. Fork this repository from the course repository
 2. Complete the Quickstart Guide for GitHub Actions to add a project build to your forked repository: https://docs.github.com/en/actions/writing-workflows/quickstart
 3. Add a custom behavior to work GitHub Action workflow.
@@ -12,6 +15,13 @@ For class, please complete the following activity (you may work individually or 
   * One must be adding a new file describing you/your team’s prior CI/CD experience.
   * Other suggestions to add: UI updates, tests, code improvements, additional functionality, questions about the lecture, etc. (please disclose AI usage)
 5. Submit the link to forked repository on Canvas. Complete whatever you finish by the end of class today.
+
+## Changes Made For This Activity
+- Added contributor name to the README
+- Added a prior CI/CD experience file
+- Added an AI usage disclosure file
+- Added a GitHub Actions workflow for Python CI
+- Improved the homepage UI text and styling
 
 ## Run Program
 
